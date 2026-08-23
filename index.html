@@ -6,6 +6,8 @@
 <title>패키지연구소</title>
 <meta property="og:title" content="패키지연구소">
 <meta property="og:description" content="패키지여행, 대신 따져봐드립니다">
+<meta property="og:image" content="cover.jpg">
+<link rel="icon" href="logo.png">
 <style>
   * { margin:0; padding:0; box-sizing:border-box; }
   body {
@@ -22,35 +24,55 @@
     background:#fff; border-radius:20px; padding:20px;
     box-shadow:0 4px 14px rgba(34,49,78,.08); margin-bottom:26px;
   }
-  .card .lab { display:inline-block; background:#E03131; color:#fff; font-size:13px;
-               font-weight:700; padding:5px 14px; border-radius:999px; margin-bottom:12px; }
+  .meta { display:flex; align-items:center; gap:10px; margin-bottom:12px; }
+  .meta .lab { background:#E03131; color:#fff; font-size:13px;
+               font-weight:700; padding:5px 14px; border-radius:999px; }
+  .meta .when { font-size:13.5px; color:#8B98A9; font-weight:600; }
   .card img { width:100%; border-radius:14px; display:block; margin-bottom:14px; }
   .card h2 { font-size:19px; font-weight:800; line-height:1.4; }
-  .card .sub { font-size:15px; color:#4A5568; margin:6px 0 2px; }
-  .card .date { font-size:13px; color:#8B98A9; margin-bottom:14px; }
+  .card .sub { font-size:15px; color:#4A5568; margin:6px 0 14px; }
   .row { display:flex; gap:10px; }
   .row a {
-    flex:1; text-align:center; text-decoration:none; font-weight:700; font-size:16px;
+    flex:1; display:flex; align-items:center; justify-content:center; gap:8px;
+    text-decoration:none; font-weight:700; font-size:16px;
     padding:14px 0; border-radius:14px; color:#fff;
   }
+  .row a svg { width:20px; height:20px; }
   .b-video { background:#E03131; }
-  .b-blog  { background:#3DB273; }
+  .b-blog  { background:#03C75A; }
   .b-book  { background:#22314E; margin-top:10px; display:block; text-align:center;
              text-decoration:none; color:#fff; font-weight:700; font-size:17px;
              padding:16px 0; border-radius:14px; }
   .links a {
     display:flex; align-items:center; gap:14px;
-    background:#fff; border-radius:16px; padding:18px 20px; margin-bottom:14px;
+    background:#fff; border-radius:16px; padding:16px 20px; margin-bottom:13px;
     text-decoration:none; color:#22314E; font-size:17px; font-weight:700;
     box-shadow:0 3px 10px rgba(34,49,78,.07);
     transition:transform .12s;
   }
   .links a:active { transform:scale(.98); }
-  .links .ic {
+  .ic {
     width:44px; height:44px; border-radius:12px; flex:none;
     display:flex; align-items:center; justify-content:center;
-    color:#fff; font-size:20px;
   }
+  .ic svg { width:24px; height:24px; }
+  .sec { font-size:15px; font-weight:800; color:#8B98A9; letter-spacing:1px;
+         margin:30px 0 14px; text-align:center; }
+  .ep {
+    display:flex; align-items:center; gap:14px; background:#fff;
+    border-radius:16px; padding:14px 16px; margin-bottom:12px;
+    box-shadow:0 3px 10px rgba(34,49,78,.07);
+  }
+  .ep .no { width:40px; height:40px; border-radius:12px; background:#F6F1E7; flex:none;
+            display:flex; align-items:center; justify-content:center;
+            font-weight:800; font-size:16px; color:#E03131; }
+  .ep .tt { flex:1; min-width:0; }
+  .ep .tt b { display:block; font-size:15px; line-height:1.35; }
+  .ep .tt span { font-size:12.5px; color:#8B98A9; }
+  .ep .go { display:flex; gap:8px; flex:none; }
+  .ep .go a { width:38px; height:38px; border-radius:11px; display:flex;
+              align-items:center; justify-content:center; text-decoration:none; }
+  .ep .go svg { width:19px; height:19px; }
   .notice { font-size:12.5px; color:#8B98A9; text-align:center; line-height:1.6; margin-top:26px; }
 </style>
 </head>
@@ -61,24 +83,25 @@
   <p class="tag">패키지여행, 대신 따져봐드립니다</p>
 
   <div class="card">
-    <span class="lab">최신 검증</span>
+    <div class="meta"><span class="lab">1편 · 최신</span>
+      <span class="when">2026.08.23 업로드</span></div>
     <img src="cover.jpg" alt="">
     <h2>북해도 3박4일 힐튼 패키지 — 123만원, 이 구성 실화일까</h2>
-    <p class="sub">게뷔페 무제한 · 온천 2박 · 후기 18건까지 검증</p>
-    <p class="date">2026.08.21 기준</p>
+    <p class="sub">게뷔페 무제한 · 온천 2박 · 후기 18건</p>
     <div class="row">
-      <a class="b-video" href="https://youtu.be/9ScDky7EXtg">▶ 영상으로</a>
-      <a class="b-blog" href="https://blog.naver.com/robotnady10">📝 글로</a>
+      <a class="b-video" href="https://youtu.be/9ScDky7EXtg"><svg viewBox="0 0 24 24" fill="#fff"><path d="M23 7.2s-.2-1.6-.9-2.3c-.9-.9-1.9-.9-2.4-1C16.4 3.6 12 3.6 12 3.6h0s-4.4 0-7.7.3c-.5.1-1.5.1-2.4 1-.7.7-.9 2.3-.9 2.3S.8 9.1.8 11v1.8c0 1.9.2 3.8.2 3.8s.2 1.6.9 2.3c.9.9 2 .9 2.5 1 1.9.2 7.6.3 7.6.3s4.4 0 7.7-.3c.5-.1 1.5-.1 2.4-1 .7-.7.9-2.3.9-2.3s.2-1.9.2-3.8V11c0-1.9-.2-3.8-.2-3.8zM9.7 15.1V8.5l6.2 3.3-6.2 3.3z"/></svg>유튜브</a>
+      <a class="b-blog" href="https://blog.naver.com/robotnady10/224387641872"><svg viewBox="0 0 24 24" fill="#fff"><path d="M16.3 4v8.5L7.7 4H4v16h3.7v-8.5L16.3 20H20V4h-3.7z"/></svg>네이버 블로그</a>
     </div>
     <a class="b-book" href="https://naver.me/GbyCGvt3">이 상품 예약 페이지 열기 <span style="font-weight:400;font-size:13px">(제휴)</span></a>
   </div>
 
+  <p class="sec">채널 바로가기</p>
   <div class="links">
-    <a href="https://www.youtube.com/@package-researcher"><span class="ic" style="background:#E03131">▶</span>유튜브 — 전체 검증 영상</a>
-    <a href="https://blog.naver.com/robotnady10"><span class="ic" style="background:#3DB273">📝</span>네이버 블로그 — 글로 보기</a>
-    <a href="https://www.instagram.com/package_researcher"><span class="ic" style="background:#E8447F">📷</span>인스타그램</a>
-    <a href="https://www.threads.net/@package_researcher"><span class="ic" style="background:#22314E">🧵</span>스레드</a>
-    <a href="https://www.facebook.com/profile.php?id=1386726221181628"><span class="ic" style="background:#3B5FA0">👍</span>페이스북 페이지</a>
+    <a href="https://www.youtube.com/@package-researcher"><span class="ic" style="background:#E03131"><svg viewBox="0 0 24 24" fill="#fff"><path d="M23 7.2s-.2-1.6-.9-2.3c-.9-.9-1.9-.9-2.4-1C16.4 3.6 12 3.6 12 3.6h0s-4.4 0-7.7.3c-.5.1-1.5.1-2.4 1-.7.7-.9 2.3-.9 2.3S.8 9.1.8 11v1.8c0 1.9.2 3.8.2 3.8s.2 1.6.9 2.3c.9.9 2 .9 2.5 1 1.9.2 7.6.3 7.6.3s4.4 0 7.7-.3c.5-.1 1.5-.1 2.4-1 .7-.7.9-2.3.9-2.3s.2-1.9.2-3.8V11c0-1.9-.2-3.8-.2-3.8zM9.7 15.1V8.5l6.2 3.3-6.2 3.3z"/></svg></span>유튜브</a>
+    <a href="https://blog.naver.com/robotnady10"><span class="ic" style="background:#03C75A"><svg viewBox="0 0 24 24" fill="#fff"><path d="M16.3 4v8.5L7.7 4H4v16h3.7v-8.5L16.3 20H20V4h-3.7z"/></svg></span>네이버 블로그</a>
+    <a href="https://www.instagram.com/package_researcher"><span class="ic" style="background:#E8447F"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4.2"/><circle cx="17.4" cy="6.6" r="1.3" fill="#fff" stroke="none"/></svg></span>인스타그램</a>
+    <a href="https://www.threads.net/@package_researcher"><span class="ic" style="background:#22314E"><svg viewBox="0 0 24 24" fill="#fff"><path d="M12.7 11.2c-.7-.3-1.5-.5-2.3-.5-2.1 0-3.7 1.2-3.7 3 0 1.7 1.4 2.9 3.3 2.9 2.3 0 3.8-1.6 4-4.4-.4-.2-.9-.4-1.3-.5v.1c-.2 2.1-1.2 3.2-2.7 3.2-.9 0-1.7-.5-1.7-1.4 0-.9.9-1.5 2.1-1.5.6 0 1.2.1 1.7.3 0-.1 0-.3 0-.4 0-1.3-.9-2.1-2.3-2.1-1 0-1.8.3-2.4 1l-1.2-1.1c.9-1 2.2-1.5 3.7-1.5 2.3 0 3.8 1.4 3.9 3.7 1.3.6 2.3 1.5 2.3 3.1 0 2.6-2.2 4.9-5.9 4.9-3.6 0-6.4-2.5-6.4-7S6.6 5 12 5c3.2 0 5.5 1.4 6.6 3.8l-1.5.8C16.3 7.7 14.5 6.7 12 6.7c-4.3 0-6.6 2.6-6.6 5.9 0 3.4 2.2 5.4 4.8 5.4 2.7 0 4.3-1.6 4.3-3.3 0-1-.6-1.8-1.8-2.3z"/></svg></span>스레드</a>
+    <a href="https://www.facebook.com/profile.php?id=1386726221181628"><span class="ic" style="background:#3B5FA0"><svg viewBox="0 0 24 24" fill="#fff"><path d="M13.5 21v-8.2h2.8l.4-3.2h-3.2V7.5c0-.9.3-1.5 1.6-1.5h1.7V3.1C16.5 3.1 15.5 3 14.4 3c-2.4 0-4 1.4-4 4.1v2.5H7.6v3.2h2.8V21h3.1z"/></svg></span>페이스북</a>
   </div>
 
   <p class="notice">예약 링크는 제휴 링크이며, 예약 시 일정 수수료를 받습니다. 가격은 동일합니다.<br>패키지연구소 · 어르신 생활수첩</p>
