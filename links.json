@@ -1,0 +1,21 @@
+{
+  "brand": "패키지연구소",
+  "tagline": "패키지여행, 대신 따져봐드립니다",
+  "channels": [
+    {"icon": "▶", "name": "유튜브 — 전체 검증 영상", "url": "https://www.youtube.com/@package-researcher", "color": "#E03131"},
+    {"icon": "📝", "name": "네이버 블로그 — 글로 보기", "url": "https://blog.naver.com/robotnady10", "color": "#3DB273"},
+    {"icon": "📷", "name": "인스타그램", "url": "https://www.instagram.com/package_researcher", "color": "#E8447F"},
+    {"icon": "🧵", "name": "스레드", "url": "https://www.threads.net/@package_researcher", "color": "#22314E"},
+    {"icon": "👍", "name": "페이스북 페이지", "url": "https://www.facebook.com/profile.php?id=1386726221181628", "color": "#3B5FA0"}
+  ],
+  "latest": {
+    "title": "북해도 3박4일 힐튼 패키지 — 123만원, 이 구성 실화일까",
+    "sub": "게뷔페 무제한 · 온천 2박 · 후기 18건까지 검증",
+    "date": "2026.08.21 기준",
+    "video": "https://youtu.be/9ScDky7EXtg",
+    "blog": "https://blog.naver.com/robotnady10",
+    "booking": "https://naver.me/GbyCGvt3",
+    "cover": "cover.jpg"
+  },
+  "ad_notice": "예약 링크는 제휴 링크이며, 예약 시 일정 수수료를 받습니다. 가격은 동일합니다."
+}

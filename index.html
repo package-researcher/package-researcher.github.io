@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>패키지연구소</title>
+<meta property="og:title" content="패키지연구소">
+<meta property="og:description" content="패키지여행, 대신 따져봐드립니다">
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body {
+    font-family: "Pretendard Variable", Pretendard, "Noto Sans KR", "Malgun Gothic", sans-serif;
+    background:#F6F1E7; color:#22314E; min-height:100vh;
+    display:flex; justify-content:center;
+  }
+  .wrap { width:100%; max-width:520px; padding:44px 22px 60px; }
+  .logo { width:96px; height:96px; border-radius:50%; display:block; margin:0 auto 16px;
+          box-shadow:0 6px 18px rgba(34,49,78,.18); }
+  h1 { text-align:center; font-size:28px; font-weight:800; letter-spacing:-.5px; }
+  .tag { text-align:center; font-size:16px; color:#8B98A9; margin:8px 0 30px; }
+  .card {
+    background:#fff; border-radius:20px; padding:20px;
+    box-shadow:0 4px 14px rgba(34,49,78,.08); margin-bottom:26px;
+  }
+  .card .lab { display:inline-block; background:#E03131; color:#fff; font-size:13px;
+               font-weight:700; padding:5px 14px; border-radius:999px; margin-bottom:12px; }
+  .card img { width:100%; border-radius:14px; display:block; margin-bottom:14px; }
+  .card h2 { font-size:19px; font-weight:800; line-height:1.4; }
+  .card .sub { font-size:15px; color:#4A5568; margin:6px 0 2px; }
+  .card .date { font-size:13px; color:#8B98A9; margin-bottom:14px; }
+  .row { display:flex; gap:10px; }
+  .row a {
+    flex:1; text-align:center; text-decoration:none; font-weight:700; font-size:16px;
+    padding:14px 0; border-radius:14px; color:#fff;
+  }
+  .b-video { background:#E03131; }
+  .b-blog  { background:#3DB273; }
+  .b-book  { background:#22314E; margin-top:10px; display:block; text-align:center;
+             text-decoration:none; color:#fff; font-weight:700; font-size:17px;
+             padding:16px 0; border-radius:14px; }
+  .links a {
+    display:flex; align-items:center; gap:14px;
+    background:#fff; border-radius:16px; padding:18px 20px; margin-bottom:14px;
+    text-decoration:none; color:#22314E; font-size:17px; font-weight:700;
+    box-shadow:0 3px 10px rgba(34,49,78,.07);
+    transition:transform .12s;
+  }
+  .links a:active { transform:scale(.98); }
+  .links .ic {
+    width:44px; height:44px; border-radius:12px; flex:none;
+    display:flex; align-items:center; justify-content:center;
+    color:#fff; font-size:20px;
+  }
+  .notice { font-size:12.5px; color:#8B98A9; text-align:center; line-height:1.6; margin-top:26px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <img class="logo" src="logo.png" alt="패키지연구소">
+  <h1>패키지연구소</h1>
+  <p class="tag">패키지여행, 대신 따져봐드립니다</p>
+
+  <div class="card">
+    <span class="lab">최신 검증</span>
+    <img src="cover.jpg" alt="">
+    <h2>북해도 3박4일 힐튼 패키지 — 123만원, 이 구성 실화일까</h2>
+    <p class="sub">게뷔페 무제한 · 온천 2박 · 후기 18건까지 검증</p>
+    <p class="date">2026.08.21 기준</p>
+    <div class="row">
+      <a class="b-video" href="https://youtu.be/9ScDky7EXtg">▶ 영상으로</a>
+      <a class="b-blog" href="https://blog.naver.com/robotnady10">📝 글로</a>
+    </div>
+    <a class="b-book" href="https://naver.me/GbyCGvt3">이 상품 예약 페이지 열기 <span style="font-weight:400;font-size:13px">(제휴)</span></a>
+  </div>
+
+  <div class="links">
+    <a href="https://www.youtube.com/@package-researcher"><span class="ic" style="background:#E03131">▶</span>유튜브 — 전체 검증 영상</a>
+    <a href="https://blog.naver.com/robotnady10"><span class="ic" style="background:#3DB273">📝</span>네이버 블로그 — 글로 보기</a>
+    <a href="https://www.instagram.com/package_researcher"><span class="ic" style="background:#E8447F">📷</span>인스타그램</a>
+    <a href="https://www.threads.net/@package_researcher"><span class="ic" style="background:#22314E">🧵</span>스레드</a>
+    <a href="https://www.facebook.com/profile.php?id=1386726221181628"><span class="ic" style="background:#3B5FA0">👍</span>페이스북 페이지</a>
+  </div>
+
+  <p class="notice">예약 링크는 제휴 링크이며, 예약 시 일정 수수료를 받습니다. 가격은 동일합니다.<br>패키지연구소 · 어르신 생활수첩</p>
+</div>
+</body>
+</html>
