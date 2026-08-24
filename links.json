@@ -32,32 +32,41 @@
     {
       "no": 3,
       "title": "스페인·포르투갈 9일 324만원, 10개 도시에 식사 20회 — 따로 사면 얼마인지 계산해봤습니다",
-      "sub": "",
+      "sub": "참좋은여행 · 2026.9.24 출발 · 1인 324만원",
       "date": "2026.08.24",
       "video": "https://youtu.be/kgGB-NNpNpg",
       "blog": "https://blog.naver.com/robotnady10/224388874846",
       "booking": "https://naver.me/54K3Yxhf",
-      "cover": "cover.jpg"
+      "cover": "covers/spain-portugal-9d.jpg",
+      "pid": "spain_20260924",
+      "name": "스페인·포르투갈 8박9일 10개도시 패키지",
+      "slug": "spain-portugal-9d"
     },
     {
       "no": 2,
       "title": "[2주만특가] 나트랑/달랏 5일 노팁·노옵션 (노랑풍선 · 2026.9.14 출발 · 출발확정) — 대신 따져본 전체 검증입니다.",
-      "sub": "",
+      "sub": "노랑풍선 · 2026.9.14 출발 · 1인 56만원",
       "date": "2026.08.23",
       "video": "https://youtu.be/WQ100zFdZ5c",
       "blog": "https://blog.naver.com/robotnady10/224387793547",
       "booking": "https://naver.me/GLhm7FpD",
-      "cover": "cover.jpg"
+      "cover": "covers/nhatrang-dalat-5d.jpg",
+      "pid": "nhatrang_yellowballoon_20260914",
+      "name": "베트남 나트랑/달랏 3박5일 노팁·노옵션 패키지",
+      "slug": "nhatrang-dalat-5d"
     },
     {
       "no": 1,
       "title": "북해도 3박4일 힐튼 패키지 — 123만원, 이 구성 실화일까",
-      "sub": "게뷔페 무제한 · 온천 2박 · 후기 18건",
+      "sub": "참좋은여행 · 2026.9.12 출발 · 1인 123만원",
       "date": "2026.08.23",
       "video": "https://youtu.be/9ScDky7EXtg",
       "blog": "https://blog.naver.com/robotnady10/224387696452",
       "booking": "https://naver.me/GbyCGvt3",
-      "cover": "cover.jpg"
+      "cover": "covers/hokkaido-hilton-4d.jpg",
+      "pid": "hokkaido_verygood_20260912",
+      "name": "일본 북해도 3박4일 힐튼 패키지",
+      "slug": "hokkaido-hilton-4d"
     }
   ],
   "ad_notice": "예약 링크는 제휴 링크이며, 예약 시 일정 수수료를 받습니다. 가격은 동일합니다."
