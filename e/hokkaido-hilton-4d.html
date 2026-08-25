@@ -99,6 +99,20 @@
       <a class="b-b" href="https://naver.me/GbyCGvt3">이 상품 예약 페이지 열기 <small>제휴</small></a>
     </div>
   </div>
+  <script>
+  (function () {
+    var m = location.search.match(/[?&]from=([a-z]+)/);
+    if (!m) return;
+    document.querySelectorAll('a.b-b').forEach(function (a) {
+      try {
+        var u = new URL(a.href);
+        u.searchParams.set('utm_source', m[1]);
+        u.searchParams.set('utm_medium', 'linkpage');
+        a.href = u.toString();
+      } catch (e) { /* 단축 URL 등은 그대로 둔다 */ }
+    });
+  })();
+  </script>
 
   <p class="notice">예약 링크는 제휴 링크이며, 예약 시 일정 수수료를 받습니다. 가격은 동일합니다.<br>패키지연구소</p>
 </div>
