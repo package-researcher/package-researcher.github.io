@@ -1,99 +1,112 @@
 {
- "brand": "패키지연구소",
- "tagline": "패키지여행, 대신 따져봐드립니다",
- "channels": [
-  {
-   "icon": "youtube",
-   "name": "유튜브",
-   "url": "https://www.youtube.com/@package-researcher"
-  },
-  {
-   "icon": "naver",
-   "name": "네이버 블로그",
-   "url": "https://blog.naver.com/robotnady10"
-  },
-  {
-   "icon": "instagram",
-   "name": "인스타그램",
-   "url": "https://www.instagram.com/package_researcher"
-  },
-  {
-   "icon": "threads",
-   "name": "스레드",
-   "url": "https://www.threads.net/@package_researcher"
-  },
-  {
-   "icon": "facebook",
-   "name": "페이스북",
-   "url": "https://www.facebook.com/profile.php?id=1386726221181628"
-  }
- ],
- "episodes": [
-  {
-   "no": 5,
-   "pid": "tsushima_20260921",
-   "slug": "tsushima-2d",
-   "name": "일본 대마도 1박2일 부산항 배편 패키지",
-   "title": "대마도 패키지 솔직 후기 | 12만원 1박 2일, 진짜 12만원일까?",
-   "sub": "모두투어 · 12만원대 · 부산에서 49km",
-   "date": "2026.08.26",
-   "video": "https://youtu.be/7J0fLTETRYA",
-   "blog": "",
-   "booking": "https://naver.me/FuNswuME",
-   "cover": "covers/tsushima-2d.jpg"
-  },
-  {
-   "no": 4,
-   "pid": "hoian_20260927",
-   "slug": "danang-hoian-5d",
-   "name": "베트남 다낭·호이안 3박5일 노옵션 패키지",
-   "title": "[노옵션 다낭/호이안] 5성 호텔 5일",
-   "sub": "참좋은여행 · 2026.9.27 출발 · 1인 42.7만원",
-   "date": "2026.08.25",
-   "video": "https://youtu.be/lYw_uNlJ-J0",
-   "blog": "https://blog.naver.com/robotnady10/224389058420",
-   "booking": "https://naver.me/G3vFKrUJ",
-   "cover": "covers/danang-hoian-5d.jpg"
-  },
-  {
-   "no": 3,
-   "title": "스페인·포르투갈 9일 324만원, 10개 도시에 식사 20회 — 따로 사면 얼마인지 계산해봤습니다",
-   "sub": "참좋은여행 · 2026.9.24 출발 · 1인 324만원",
-   "date": "2026.08.24",
-   "video": "https://youtu.be/kgGB-NNpNpg",
-   "blog": "https://blog.naver.com/robotnady10/224388874846",
-   "booking": "https://naver.me/54K3Yxhf",
-   "cover": "covers/spain-portugal-9d.jpg",
-   "pid": "spain_20260924",
-   "name": "스페인·포르투갈 8박9일 10개도시 패키지",
-   "slug": "spain-portugal-9d"
-  },
-  {
-   "no": 2,
-   "title": "[2주만특가] 나트랑/달랏 5일 노팁·노옵션 (노랑풍선 · 2026.9.14 출발 · 출발확정) — 대신 따져본 전체 검증입니다.",
-   "sub": "노랑풍선 · 2026.9.14 출발 · 1인 56만원",
-   "date": "2026.08.23",
-   "video": "https://youtu.be/WQ100zFdZ5c",
-   "blog": "https://blog.naver.com/robotnady10/224387793547",
-   "booking": "https://naver.me/GLhm7FpD",
-   "cover": "covers/nhatrang-dalat-5d.jpg",
-   "pid": "nhatrang_yellowballoon_20260914",
-   "name": "베트남 나트랑/달랏 3박5일 노팁·노옵션 패키지",
-   "slug": "nhatrang-dalat-5d"
-  },
-  {
-   "no": 1,
-   "title": "북해도 3박4일 힐튼 패키지 — 123만원, 이 구성 실화일까",
-   "sub": "참좋은여행 · 2026.9.12 출발 · 1인 123만원",
-   "date": "2026.08.23",
-   "video": "https://youtu.be/9ScDky7EXtg",
-   "blog": "https://blog.naver.com/robotnady10/224387696452",
-   "booking": "https://naver.me/GbyCGvt3",
-   "cover": "covers/hokkaido-hilton-4d.jpg",
-   "pid": "hokkaido_verygood_20260912",
-   "name": "일본 북해도 3박4일 힐튼 패키지",
-   "slug": "hokkaido-hilton-4d"
-  }
- ],
- "ad_notice": "예약 링크는 제휴 링크이며, 예약 시 일정 수수료를 받습니다. 가격은 동일합니다."
+  "brand": "패키지연구소",
+  "tagline": "패키지여행, 대신 따져봐드립니다",
+  "channels": [
+    {
+      "icon": "youtube",
+      "name": "유튜브",
+      "url": "https://www.youtube.com/@package-researcher"
+    },
+    {
+      "icon": "naver",
+      "name": "네이버 블로그",
+      "url": "https://blog.naver.com/robotnady10"
+    },
+    {
+      "icon": "instagram",
+      "name": "인스타그램",
+      "url": "https://www.instagram.com/package_researcher"
+    },
+    {
+      "icon": "threads",
+      "name": "스레드",
+      "url": "https://www.threads.net/@package_researcher"
+    },
+    {
+      "icon": "facebook",
+      "name": "페이스북",
+      "url": "https://www.facebook.com/profile.php?id=1386726221181628"
+    }
+  ],
+  "episodes": [
+    {
+      "no": 6,
+      "pid": "shanghai_20260913",
+      "slug": "shanghai-suzhou-4d",
+      "name": "중국 상해·소주·주가각 3박4일 NO쇼핑 패키지",
+      "title": "상하이 패키지 58만원 노쇼핑 | 그런데 잠은 상하이에서 안 잡니다",
+      "sub": "하나투어 · 직항 2시간 20분 · 9월 기준 58만원대",
+      "date": "2026.08.27",
+      "video": "https://youtu.be/TueR5-pCaRw",
+      "blog": "",
+      "booking": "https://naver.me/5K64U6NC",
+      "cover": "covers/shanghai-suzhou-4d.jpg"
+    },
+    {
+      "no": 5,
+      "pid": "tsushima_20260921",
+      "slug": "tsushima-2d",
+      "name": "일본 대마도 1박2일 부산항 배편 패키지",
+      "title": "대마도 패키지 솔직 후기 | 12만원 1박 2일, 진짜 12만원일까?",
+      "sub": "모두투어 · 12만원대 · 부산에서 49km",
+      "date": "2026.08.26",
+      "video": "https://youtu.be/7J0fLTETRYA",
+      "blog": "",
+      "booking": "https://naver.me/FuNswuME",
+      "cover": "covers/tsushima-2d.jpg"
+    },
+    {
+      "no": 4,
+      "pid": "hoian_20260927",
+      "slug": "danang-hoian-5d",
+      "name": "베트남 다낭·호이안 3박5일 노옵션 패키지",
+      "title": "[노옵션 다낭/호이안] 5성 호텔 5일",
+      "sub": "참좋은여행 · 2026.9.27 출발 · 1인 42.7만원",
+      "date": "2026.08.25",
+      "video": "https://youtu.be/lYw_uNlJ-J0",
+      "blog": "https://blog.naver.com/robotnady10/224389058420",
+      "booking": "https://naver.me/G3vFKrUJ",
+      "cover": "covers/danang-hoian-5d.jpg"
+    },
+    {
+      "no": 3,
+      "title": "스페인·포르투갈 9일 324만원, 10개 도시에 식사 20회 — 따로 사면 얼마인지 계산해봤습니다",
+      "sub": "참좋은여행 · 2026.9.24 출발 · 1인 324만원",
+      "date": "2026.08.24",
+      "video": "https://youtu.be/kgGB-NNpNpg",
+      "blog": "https://blog.naver.com/robotnady10/224388874846",
+      "booking": "https://naver.me/54K3Yxhf",
+      "cover": "covers/spain-portugal-9d.jpg",
+      "pid": "spain_20260924",
+      "name": "스페인·포르투갈 8박9일 10개도시 패키지",
+      "slug": "spain-portugal-9d"
+    },
+    {
+      "no": 2,
+      "title": "[2주만특가] 나트랑/달랏 5일 노팁·노옵션 (노랑풍선 · 2026.9.14 출발 · 출발확정) — 대신 따져본 전체 검증입니다.",
+      "sub": "노랑풍선 · 2026.9.14 출발 · 1인 56만원",
+      "date": "2026.08.23",
+      "video": "https://youtu.be/WQ100zFdZ5c",
+      "blog": "https://blog.naver.com/robotnady10/224387793547",
+      "booking": "https://naver.me/GLhm7FpD",
+      "cover": "covers/nhatrang-dalat-5d.jpg",
+      "pid": "nhatrang_yellowballoon_20260914",
+      "name": "베트남 나트랑/달랏 3박5일 노팁·노옵션 패키지",
+      "slug": "nhatrang-dalat-5d"
+    },
+    {
+      "no": 1,
+      "title": "북해도 3박4일 힐튼 패키지 — 123만원, 이 구성 실화일까",
+      "sub": "참좋은여행 · 2026.9.12 출발 · 1인 123만원",
+      "date": "2026.08.23",
+      "video": "https://youtu.be/9ScDky7EXtg",
+      "blog": "https://blog.naver.com/robotnady10/224387696452",
+      "booking": "https://naver.me/GbyCGvt3",
+      "cover": "covers/hokkaido-hilton-4d.jpg",
+      "pid": "hokkaido_verygood_20260912",
+      "name": "일본 북해도 3박4일 힐튼 패키지",
+      "slug": "hokkaido-hilton-4d"
+    }
+  ],
+  "ad_notice": "예약 링크는 제휴 링크이며, 예약 시 일정 수수료를 받습니다. 가격은 동일합니다."
 }
