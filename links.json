@@ -30,6 +30,19 @@
  ],
  "episodes": [
   {
+   "no": 9,
+   "pid": "hawaii_20260911",
+   "slug": "hawaii-hilton-7d",
+   "name": "하와이 5박7일 힐튼 하와이안 빌리지 에어텔",
+   "title": "하와이 에어텔 230만원 | 힐튼 5박에 리조트피까지, 이게 되나",
+   "sub": "하나투어 · 대한항공 직항 · 9월 기준 230만원대",
+   "date": "2026.08.29",
+   "video": "",
+   "blog": "",
+   "booking": "https://naver.me/FWT9uEy7",
+   "cover": "covers/hawaii-hilton-7d.jpg"
+  },
+  {
    "no": 8,
    "pid": "fukuoka_20260913",
    "slug": "fukuoka-kyushu-3d",
