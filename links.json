@@ -30,6 +30,19 @@
  ],
  "episodes": [
   {
+   "no": 10,
+   "pid": "sydney_20260929",
+   "slug": "sydney-7d",
+   "name": "호주 시드니 완전일주 5박7일 패키지",
+   "title": "시드니 패키지 243만원 | 관광 15번 식사 15번, 이게 되나",
+   "sub": "모두투어 · 아시아나 직항 · 9월 기준 243만원대",
+   "date": "2026.08.30",
+   "video": "https://youtu.be/_045miFMVpU",
+   "blog": "https://blog.naver.com/robotnady10/224394625742",
+   "booking": "https://naver.me/xIF0sU7I",
+   "cover": "covers/sydney-7d.jpg"
+  },
+  {
    "no": 9,
    "pid": "hawaii_20260911",
    "slug": "hawaii-hilton-7d",
