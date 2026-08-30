@@ -41,12 +41,12 @@
    "booking": "https://naver.me/xIF0sU7I",
    "cover": "covers/sydney-7d.jpg",
    "blog_info": "https://blog.naver.com/robotnady10/224394622715",
-   "video_private_hold": "https://youtu.be/-jIGx-1nIbQ",
    "shorts_private_hold": [
     "https://youtu.be/j8LyIk_TYdI",
     "https://youtu.be/sW1q0voTu94",
     "https://youtu.be/RE36_fFIM9I"
-   ]
+   ],
+   "video": "https://youtu.be/-jIGx-1nIbQ"
   },
   {
    "no": 9,
