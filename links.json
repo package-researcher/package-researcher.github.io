@@ -30,6 +30,20 @@
  ],
  "episodes": [
   {
+   "no": 11,
+   "pid": "eastereu_20260915",
+   "slug": "eastereu-10d",
+   "name": "발칸 동유럽 5개국 9박10일 패키지",
+   "title": "동유럽 패키지 227만원 | 5개국 식사 21번, 진짜 추가금 없을까?",
+   "sub": "참좋은여행 · 에미레이트 경유 · 9월 기준 227만원대",
+   "date": "2026.08.30",
+   "blog": "https://blog.naver.com/robotnady10/224395202245",
+   "blog_info": "https://blog.naver.com/robotnady10/224395204157",
+   "booking": "https://naver.me/IGs1h3FU",
+   "cover": "covers/eastereu-10d.jpg",
+   "video_private_hold": "https://youtu.be/y-yq4GfBEOY"
+  },
+  {
    "no": 10,
    "pid": "sydney_20260929",
    "slug": "sydney-7d",
