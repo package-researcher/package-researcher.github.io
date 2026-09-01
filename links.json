@@ -1,223 +1,223 @@
 {
- "brand": "패키지연구소",
- "tagline": "패키지여행, 대신 따져봐드립니다",
- "channels": [
-  {
-   "icon": "youtube",
-   "name": "유튜브",
-   "url": "https://www.youtube.com/@package-researcher"
-  },
-  {
-   "icon": "naver",
-   "name": "네이버 블로그",
-   "url": "https://blog.naver.com/robotnady10"
-  },
-  {
-   "icon": "instagram",
-   "name": "인스타그램",
-   "url": "https://www.instagram.com/package_researcher"
-  },
-  {
-   "icon": "threads",
-   "name": "스레드",
-   "url": "https://www.threads.net/@package_researcher"
-  },
-  {
-   "icon": "facebook",
-   "name": "페이스북",
-   "url": "https://www.facebook.com/profile.php?id=1386726221181628"
-  }
- ],
- "episodes": [
-  {
-   "no": 14,
-   "pid": "qingdao_lottetour_20260910",
-   "slug": "qingdao-3d",
-   "name": "롯데관광 칭다오 패키지 64만원, 추가금 진짜 없을까?",
-   "title": "롯데관광 칭다오 패키지 64만원, 추가금 진짜 없을까?",
-   "sub": "",
-   "date": "2026.09.01",
-   "video": "https://youtu.be/D1SdYDKVTns",
-   "blog": "",
-   "booking": "https://naver.me/xqbiWNcJ",
-   "cover": ""
-  },
-  {
-   "no": 13,
-   "pid": "baekdu_modetour_20261006",
-   "slug": "baekdu-4d",
-   "name": "모두투어 백두산 패키지 99만원, 추가금 진짜 없을까?",
-   "title": "모두투어 백두산 패키지 99만원, 추가금 진짜 없을까?",
-   "sub": "",
-   "date": "2026.08.31",
-   "video": "https://youtu.be/pucRNxQhtl4",
-   "blog": "",
-   "booking": "https://naver.me/x3cTsQqs",
-   "cover": ""
-  },
-  {
-   "no": 12,
-   "pid": "hokkaido_kyowon_20260920",
-   "slug": "hokkaido-toya-4d",
-   "name": "교원투어 북해도 패키지 113만원, 추가금 없을까?",
-   "title": "교원투어 북해도 패키지 113만원, 추가금 없을까?",
-   "sub": "",
-   "date": "2026.08.31",
-   "video": "https://youtu.be/jhFLrfDRbSA",
-   "blog": "",
-   "booking": "https://naver.me/FDc8ZZNB",
-   "cover": ""
-  },
-  {
-   "no": 11,
-   "pid": "eastereu_20260915",
-   "slug": "eastereu-10d",
-   "name": "발칸 동유럽 5개국 9박10일 패키지",
-   "title": "동유럽 패키지 227만원 | 5개국 식사 21번, 진짜 추가금 없을까?",
-   "sub": "참좋은여행 · 에미레이트 경유 · 9월 기준 227만원대",
-   "date": "2026.08.30",
-   "blog": "https://blog.naver.com/robotnady10/224395202245",
-   "blog_info": "https://blog.naver.com/robotnady10/224395204157",
-   "booking": "https://naver.me/IGs1h3FU",
-   "cover": "covers/eastereu-10d.jpg",
-   "video": "https://youtu.be/y-yq4GfBEOY"
-  },
-  {
-   "no": 10,
-   "pid": "sydney_20260929",
-   "slug": "sydney-7d",
-   "name": "호주 시드니 완전일주 5박7일 패키지",
-   "title": "시드니 패키지 243만원 | 관광 15번 식사 15번, 이게 되나",
-   "sub": "모두투어 · 아시아나 직항 · 9월 기준 243만원대",
-   "date": "2026.08.30",
-   "blog": "https://blog.naver.com/robotnady10/224394625742",
-   "booking": "https://naver.me/xIF0sU7I",
-   "cover": "covers/sydney-7d.jpg",
-   "blog_info": "https://blog.naver.com/robotnady10/224394622715",
-   "shorts_private_hold": [
-    "https://youtu.be/j8LyIk_TYdI",
-    "https://youtu.be/sW1q0voTu94",
-    "https://youtu.be/RE36_fFIM9I"
-   ],
-   "video": "https://youtu.be/-jIGx-1nIbQ"
-  },
-  {
-   "no": 9,
-   "pid": "hawaii_20260911",
-   "slug": "hawaii-hilton-7d",
-   "name": "하와이 5박7일 힐튼 하와이안 빌리지 에어텔",
-   "title": "하와이 에어텔 230만원 | 힐튼 5박에 리조트피까지, 이게 되나",
-   "sub": "하나투어 · 대한항공 직항 · 9월 기준 230만원대",
-   "date": "2026.08.29",
-   "video": "https://youtu.be/Esgx6Qu2m4s",
-   "blog": "https://blog.naver.com/robotnady10/224394291810",
-   "booking": "https://naver.me/FWT9uEy7",
-   "cover": "covers/hawaii-hilton-7d.jpg"
-  },
-  {
-   "no": 8,
-   "pid": "fukuoka_20260913",
-   "slug": "fukuoka-kyushu-3d",
-   "name": "일본 후쿠오카·규슈 2박3일 온천·대게 패키지",
-   "title": "후쿠오카 패키지 65만원 | 힐튼에 온천에 대게 무제한, 이게 되나",
-   "sub": "노랑풍선 · 힐튼 1박 + 온천 1박 · 9월 기준 65만원대",
-   "date": "2026.08.28",
-   "video": "https://youtu.be/qccBQnA1GbQ",
-   "blog": "https://blog.naver.com/robotnady10/224393476057",
-   "booking": "https://naver.me/GCJTtetV",
-   "cover": "covers/fukuoka-20260913.jpg"
-  },
-  {
-   "no": 7,
-   "pid": "italy_swiss_20260915",
-   "slug": "italy-swiss-9d",
-   "name": "이탈리아·스위스 2국 8박9일 융프라우 등정 패키지",
-   "title": "이탈리아 스위스 패키지 278만원 | 이 돈 내고 후회 안 할까",
-   "sub": "참좋은여행 · 로마 IN / 취리히 OUT · 9월 기준 278만원대",
-   "date": "2026.08.27",
-   "video": "https://youtu.be/uFdaNUYHlcM",
-   "blog": "https://blog.naver.com/robotnady10/224392907303",
-   "booking": "https://naver.me/IDk95zdl",
-   "cover": "covers/italy-swiss-9d.jpg"
-  },
-  {
-   "no": 6,
-   "pid": "shanghai_20260913",
-   "slug": "shanghai-suzhou-4d",
-   "name": "중국 상해·소주·주가각 3박4일 NO쇼핑 패키지",
-   "title": "상하이 패키지 58만원 노쇼핑 | 그런데 잠은 상하이에서 안 잡니다",
-   "sub": "하나투어 · 직항 2시간 20분 · 9월 기준 58만원대",
-   "date": "2026.08.27",
-   "video": "https://youtu.be/TueR5-pCaRw",
-   "blog": "https://blog.naver.com/robotnady10/224391985128",
-   "booking": "https://naver.me/5K64U6NC",
-   "cover": "covers/shanghai-suzhou-4d.jpg"
-  },
-  {
-   "no": 5,
-   "pid": "tsushima_20260921",
-   "slug": "tsushima-2d",
-   "name": "일본 대마도 1박2일 부산항 배편 패키지",
-   "title": "대마도 패키지 솔직 후기 | 12만원 1박 2일, 진짜 12만원일까?",
-   "sub": "모두투어 · 12만원대 · 부산에서 49km",
-   "date": "2026.08.27",
-   "video": "https://youtu.be/7J0fLTETRYA",
-   "blog": "https://blog.naver.com/robotnady10/224392263337",
-   "booking": "https://naver.me/FuNswuME",
-   "cover": "covers/tsushima-2d.jpg"
-  },
-  {
-   "no": 4,
-   "pid": "hoian_20260927",
-   "slug": "danang-hoian-5d",
-   "name": "베트남 다낭·호이안 3박5일 노옵션 패키지",
-   "title": "다낭·호이안 5성 호텔 5일 42만원 | 노옵션인데 정말 추가금이 없을까",
-   "sub": "참좋은여행 · 노팁·노옵션 · 9월 기준 42.7만원대",
-   "date": "2026.08.27",
-   "video": "https://youtu.be/lYw_uNlJ-J0",
-   "blog": "https://blog.naver.com/robotnady10/224392257457",
-   "booking": "https://naver.me/G3vFKrUJ",
-   "cover": "covers/danang-hoian-5d.jpg"
-  },
-  {
-   "no": 3,
-   "title": "스페인·포르투갈 9일 324만원 | 10개 도시에 식사 20회, 따져봤습니다",
-   "sub": "참좋은여행 · 10개 도시 · 9월 기준 324만원대",
-   "date": "2026.08.24",
-   "video": "https://youtu.be/kgGB-NNpNpg",
-   "blog": "https://blog.naver.com/robotnady10/224388874846",
-   "booking": "https://naver.me/54K3Yxhf",
-   "cover": "covers/spain-portugal-9d.jpg",
-   "pid": "spain_20260924",
-   "name": "스페인·포르투갈 8박9일 10개도시 패키지",
-   "slug": "spain-portugal-9d"
-  },
-  {
-   "no": 2,
-   "title": "나트랑·달랏 5일 56만원 노팁·노옵션 | 이 값에 이만큼이 맞나",
-   "sub": "노랑풍선 · 노팁·노옵션 · 9월 기준 56만원대",
-   "date": "2026.08.23",
-   "video": "https://youtu.be/WQ100zFdZ5c",
-   "blog": "https://blog.naver.com/robotnady10/224387793547",
-   "booking": "https://naver.me/GLhm7FpD",
-   "cover": "covers/nhatrang-dalat-5d.jpg",
-   "pid": "nhatrang_yellowballoon_20260914",
-   "name": "베트남 나트랑/달랏 3박5일 노팁·노옵션 패키지",
-   "slug": "nhatrang-dalat-5d"
-  },
-  {
-   "no": 1,
-   "title": "북해도 3박4일 힐튼 패키지 — 123만원, 이 구성 실화일까",
-   "sub": "참좋은여행 · 힐튼 니세코 · 9월 기준 123만원대",
-   "date": "2026.08.23",
-   "blog": "https://blog.naver.com/robotnady10/224393177197",
-   "booking": "https://naver.me/GbyCGvt3",
-   "cover": "covers/hokkaido-hilton-4d.jpg",
-   "pid": "hokkaido_verygood_20260912",
-   "name": "일본 북해도 3박4일 힐튼 패키지",
-   "slug": "hokkaido-hilton-4d",
-   "video_private_hold": "https://youtu.be/9ScDky7EXtg"
-  }
- ],
- "ad_notice": "예약 링크는 제휴 링크이며, 예약 시 일정 수수료를 받습니다. 가격은 동일합니다."
+  "brand": "패키지연구소",
+  "tagline": "패키지여행, 대신 따져봐드립니다",
+  "channels": [
+    {
+      "icon": "youtube",
+      "name": "유튜브",
+      "url": "https://www.youtube.com/@package-researcher"
+    },
+    {
+      "icon": "naver",
+      "name": "네이버 블로그",
+      "url": "https://blog.naver.com/robotnady10"
+    },
+    {
+      "icon": "instagram",
+      "name": "인스타그램",
+      "url": "https://www.instagram.com/package_researcher"
+    },
+    {
+      "icon": "threads",
+      "name": "스레드",
+      "url": "https://www.threads.net/@package_researcher"
+    },
+    {
+      "icon": "facebook",
+      "name": "페이스북",
+      "url": "https://www.facebook.com/profile.php?id=1386726221181628"
+    }
+  ],
+  "episodes": [
+    {
+      "no": 14,
+      "pid": "qingdao_lottetour_20260910",
+      "slug": "qingdao-3d",
+      "name": "롯데관광 칭다오 패키지 64만원, 추가금 진짜 없을까?",
+      "title": "롯데관광 칭다오 패키지 64만원, 추가금 진짜 없을까?",
+      "sub": "",
+      "date": "2026.09.01",
+      "video": "https://youtu.be/P5J2_E9fAtQ",
+      "blog": "",
+      "booking": "https://naver.me/xqbiWNcJ",
+      "cover": ""
+    },
+    {
+      "no": 13,
+      "pid": "baekdu_modetour_20261006",
+      "slug": "baekdu-4d",
+      "name": "모두투어 백두산 패키지 99만원, 추가금 진짜 없을까?",
+      "title": "모두투어 백두산 패키지 99만원, 추가금 진짜 없을까?",
+      "sub": "",
+      "date": "2026.08.31",
+      "video": "https://youtu.be/pucRNxQhtl4",
+      "blog": "",
+      "booking": "https://naver.me/x3cTsQqs",
+      "cover": ""
+    },
+    {
+      "no": 12,
+      "pid": "hokkaido_kyowon_20260920",
+      "slug": "hokkaido-toya-4d",
+      "name": "교원투어 북해도 패키지 113만원, 추가금 없을까?",
+      "title": "교원투어 북해도 패키지 113만원, 추가금 없을까?",
+      "sub": "",
+      "date": "2026.08.31",
+      "video": "https://youtu.be/jhFLrfDRbSA",
+      "blog": "",
+      "booking": "https://naver.me/FDc8ZZNB",
+      "cover": ""
+    },
+    {
+      "no": 11,
+      "pid": "eastereu_20260915",
+      "slug": "eastereu-10d",
+      "name": "발칸 동유럽 5개국 9박10일 패키지",
+      "title": "동유럽 패키지 227만원 | 5개국 식사 21번, 진짜 추가금 없을까?",
+      "sub": "참좋은여행 · 에미레이트 경유 · 9월 기준 227만원대",
+      "date": "2026.08.30",
+      "blog": "https://blog.naver.com/robotnady10/224395202245",
+      "blog_info": "https://blog.naver.com/robotnady10/224395204157",
+      "booking": "https://naver.me/IGs1h3FU",
+      "cover": "covers/eastereu-10d.jpg",
+      "video": "https://youtu.be/y-yq4GfBEOY"
+    },
+    {
+      "no": 10,
+      "pid": "sydney_20260929",
+      "slug": "sydney-7d",
+      "name": "호주 시드니 완전일주 5박7일 패키지",
+      "title": "시드니 패키지 243만원 | 관광 15번 식사 15번, 이게 되나",
+      "sub": "모두투어 · 아시아나 직항 · 9월 기준 243만원대",
+      "date": "2026.08.30",
+      "blog": "https://blog.naver.com/robotnady10/224394625742",
+      "booking": "https://naver.me/xIF0sU7I",
+      "cover": "covers/sydney-7d.jpg",
+      "blog_info": "https://blog.naver.com/robotnady10/224394622715",
+      "shorts_private_hold": [
+        "https://youtu.be/j8LyIk_TYdI",
+        "https://youtu.be/sW1q0voTu94",
+        "https://youtu.be/RE36_fFIM9I"
+      ],
+      "video": "https://youtu.be/-jIGx-1nIbQ"
+    },
+    {
+      "no": 9,
+      "pid": "hawaii_20260911",
+      "slug": "hawaii-hilton-7d",
+      "name": "하와이 5박7일 힐튼 하와이안 빌리지 에어텔",
+      "title": "하와이 에어텔 230만원 | 힐튼 5박에 리조트피까지, 이게 되나",
+      "sub": "하나투어 · 대한항공 직항 · 9월 기준 230만원대",
+      "date": "2026.08.29",
+      "video": "https://youtu.be/Esgx6Qu2m4s",
+      "blog": "https://blog.naver.com/robotnady10/224394291810",
+      "booking": "https://naver.me/FWT9uEy7",
+      "cover": "covers/hawaii-hilton-7d.jpg"
+    },
+    {
+      "no": 8,
+      "pid": "fukuoka_20260913",
+      "slug": "fukuoka-kyushu-3d",
+      "name": "일본 후쿠오카·규슈 2박3일 온천·대게 패키지",
+      "title": "후쿠오카 패키지 65만원 | 힐튼에 온천에 대게 무제한, 이게 되나",
+      "sub": "노랑풍선 · 힐튼 1박 + 온천 1박 · 9월 기준 65만원대",
+      "date": "2026.08.28",
+      "video": "https://youtu.be/qccBQnA1GbQ",
+      "blog": "https://blog.naver.com/robotnady10/224393476057",
+      "booking": "https://naver.me/GCJTtetV",
+      "cover": "covers/fukuoka-20260913.jpg"
+    },
+    {
+      "no": 7,
+      "pid": "italy_swiss_20260915",
+      "slug": "italy-swiss-9d",
+      "name": "이탈리아·스위스 2국 8박9일 융프라우 등정 패키지",
+      "title": "이탈리아 스위스 패키지 278만원 | 이 돈 내고 후회 안 할까",
+      "sub": "참좋은여행 · 로마 IN / 취리히 OUT · 9월 기준 278만원대",
+      "date": "2026.08.27",
+      "video": "https://youtu.be/uFdaNUYHlcM",
+      "blog": "https://blog.naver.com/robotnady10/224392907303",
+      "booking": "https://naver.me/IDk95zdl",
+      "cover": "covers/italy-swiss-9d.jpg"
+    },
+    {
+      "no": 6,
+      "pid": "shanghai_20260913",
+      "slug": "shanghai-suzhou-4d",
+      "name": "중국 상해·소주·주가각 3박4일 NO쇼핑 패키지",
+      "title": "상하이 패키지 58만원 노쇼핑 | 그런데 잠은 상하이에서 안 잡니다",
+      "sub": "하나투어 · 직항 2시간 20분 · 9월 기준 58만원대",
+      "date": "2026.08.27",
+      "video": "https://youtu.be/TueR5-pCaRw",
+      "blog": "https://blog.naver.com/robotnady10/224391985128",
+      "booking": "https://naver.me/5K64U6NC",
+      "cover": "covers/shanghai-suzhou-4d.jpg"
+    },
+    {
+      "no": 5,
+      "pid": "tsushima_20260921",
+      "slug": "tsushima-2d",
+      "name": "일본 대마도 1박2일 부산항 배편 패키지",
+      "title": "대마도 패키지 솔직 후기 | 12만원 1박 2일, 진짜 12만원일까?",
+      "sub": "모두투어 · 12만원대 · 부산에서 49km",
+      "date": "2026.08.27",
+      "video": "https://youtu.be/7J0fLTETRYA",
+      "blog": "https://blog.naver.com/robotnady10/224392263337",
+      "booking": "https://naver.me/FuNswuME",
+      "cover": "covers/tsushima-2d.jpg"
+    },
+    {
+      "no": 4,
+      "pid": "hoian_20260927",
+      "slug": "danang-hoian-5d",
+      "name": "베트남 다낭·호이안 3박5일 노옵션 패키지",
+      "title": "다낭·호이안 5성 호텔 5일 42만원 | 노옵션인데 정말 추가금이 없을까",
+      "sub": "참좋은여행 · 노팁·노옵션 · 9월 기준 42.7만원대",
+      "date": "2026.08.27",
+      "video": "https://youtu.be/lYw_uNlJ-J0",
+      "blog": "https://blog.naver.com/robotnady10/224392257457",
+      "booking": "https://naver.me/G3vFKrUJ",
+      "cover": "covers/danang-hoian-5d.jpg"
+    },
+    {
+      "no": 3,
+      "title": "스페인·포르투갈 9일 324만원 | 10개 도시에 식사 20회, 따져봤습니다",
+      "sub": "참좋은여행 · 10개 도시 · 9월 기준 324만원대",
+      "date": "2026.08.24",
+      "video": "https://youtu.be/kgGB-NNpNpg",
+      "blog": "https://blog.naver.com/robotnady10/224388874846",
+      "booking": "https://naver.me/54K3Yxhf",
+      "cover": "covers/spain-portugal-9d.jpg",
+      "pid": "spain_20260924",
+      "name": "스페인·포르투갈 8박9일 10개도시 패키지",
+      "slug": "spain-portugal-9d"
+    },
+    {
+      "no": 2,
+      "title": "나트랑·달랏 5일 56만원 노팁·노옵션 | 이 값에 이만큼이 맞나",
+      "sub": "노랑풍선 · 노팁·노옵션 · 9월 기준 56만원대",
+      "date": "2026.08.23",
+      "video": "https://youtu.be/WQ100zFdZ5c",
+      "blog": "https://blog.naver.com/robotnady10/224387793547",
+      "booking": "https://naver.me/GLhm7FpD",
+      "cover": "covers/nhatrang-dalat-5d.jpg",
+      "pid": "nhatrang_yellowballoon_20260914",
+      "name": "베트남 나트랑/달랏 3박5일 노팁·노옵션 패키지",
+      "slug": "nhatrang-dalat-5d"
+    },
+    {
+      "no": 1,
+      "title": "북해도 3박4일 힐튼 패키지 — 123만원, 이 구성 실화일까",
+      "sub": "참좋은여행 · 힐튼 니세코 · 9월 기준 123만원대",
+      "date": "2026.08.23",
+      "blog": "https://blog.naver.com/robotnady10/224393177197",
+      "booking": "https://naver.me/GbyCGvt3",
+      "cover": "covers/hokkaido-hilton-4d.jpg",
+      "pid": "hokkaido_verygood_20260912",
+      "name": "일본 북해도 3박4일 힐튼 패키지",
+      "slug": "hokkaido-hilton-4d",
+      "video_private_hold": "https://youtu.be/9ScDky7EXtg"
+    }
+  ],
+  "ad_notice": "예약 링크는 제휴 링크이며, 예약 시 일정 수수료를 받습니다. 가격은 동일합니다."
 }
