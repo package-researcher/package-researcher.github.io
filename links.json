@@ -30,6 +30,25 @@
   ],
   "episodes": [
     {
+      "no": 15,
+      "pid": "tokyo_ybtour_20260930",
+      "slug": "tokyo-4d",
+      "name": "노랑풍선 도쿄 패키지 66만원, 추가금 진짜 없을까?",
+      "title": "노랑풍선 도쿄 패키지 66만원, 추가금 진짜 없을까?",
+      "sub": "노랑풍선 · 티웨이 직항 · 시내 3연박 · 9월 기준 66만원대",
+      "date": "2026.09.02",
+      "video": "https://youtu.be/SYGES_3Zr9k",
+      "blog": "https://blog.naver.com/robotnady10/224398227846",
+      "blog_info": "https://blog.naver.com/robotnady10/224398223462",
+      "booking": "https://naver.me/xZKlo5Pr",
+      "shorts": [
+        "https://youtu.be/31UXhu9niyM",
+        "https://youtu.be/qbEhJV-hZWs",
+        "https://youtu.be/VfKmqm-hqJQ"
+      ],
+      "cover": ""
+    },
+    {
       "no": 14,
       "pid": "qingdao_lottetour_20260910",
       "slug": "qingdao-3d",
