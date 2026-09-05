@@ -30,6 +30,19 @@
   ],
   "episodes": [
     {
+      "no": 16,
+      "pid": "hongkong_20261000",
+      "slug": "hongkong-3d",
+      "name": "홍콩 2박 3일",
+      "title": "참좋은여행 홍콩 패키지 41만원, 추가금 진짜 없을까?",
+      "sub": "참좋은여행 · 직항 · 준특급 2연박 · 41만원",
+      "date": "2026.09.05",
+      "video": "https://youtu.be/Rwsuf63IckI",
+      "blog": "https://blog.naver.com/robotnady10/224401846173",
+      "booking": "https://naver.me/FHOxhyR8",
+      "cover": ""
+    },
+    {
       "no": 15,
       "pid": "tokyo_ybtour_20260930",
       "slug": "tokyo-4d",
