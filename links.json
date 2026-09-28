@@ -30,6 +30,19 @@
   ],
   "episodes": [
     {
+      "no": 30,
+      "pid": "pqc_lottetour_20261013",
+      "slug": "phuquoc-busan-noopt-5d",
+      "name": "롯데관광 푸꾸옥 3박 5일 (부산 출발)",
+      "title": "롯데관광 푸꾸옥 패키지 여행 64만원, 케이블카에 빈펄 사파리까지 넣은 노옵션",
+      "sub": "케이블카 · 빈펄 사파리 · 노옵션 · 64만 9천원",
+      "date": "2026.09.29",
+      "video": "https://youtu.be/7VD7sdtJxAM",
+      "blog": "https://blog.naver.com/robotnady10/224425527320",
+      "booking": "https://naver.me/5ECZGrbx",
+      "cover": ""
+    },
+    {
       "no": 29,
       "pid": "nro_ybtour_20261019",
       "slug": "osaka-nara-onsen-4d",
