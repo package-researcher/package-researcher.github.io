@@ -128,7 +128,7 @@
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-FLBF88V6HX"></script>
 <script>
 window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
-(function(){var s=(new URLSearchParams(location.search)).get('s')||'direct';
+(function(){var s=(new URLSearchParams(location.search)).get('s')||(new URLSearchParams(location.search)).get('from')||'direct';
 gtag('js',new Date());gtag('config','G-FLBF88V6HX',{src:s});
 document.addEventListener('click',function(e){
  var a=e.target.closest&&e.target.closest('a[href*="naver.me"],a[href*="brandconnect"],a[href*="myrealt.rip"],a[href*="myrealtrip.com"]');
