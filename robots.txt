@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://package-researcher.github.io/sitemap.xml
