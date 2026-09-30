@@ -56,4 +56,15 @@ h1{font-size:27px;line-height:1.3;margin:6px 0 4px;letter-spacing:-.02em}
 가격은 2026.09.30 확인한 성인 1인 표시가입니다. 출발일에 따라 달라집니다.<br>
 예약 링크는 제휴 링크(네이버·마이리얼트립)이며, 예약 시 수수료를 받습니다. <b>가격은 동일합니다.</b><br>
 <a href="https://package-researcher.github.io/">지난 편 전부 모아보기</a>
-</div></div></body></html>
+</div></div><script async src="https://www.googletagmanager.com/gtag/js?id=G-FLBF88V6HX"></script>
+<script>
+window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+(function(){var s=(new URLSearchParams(location.search)).get('s')||'direct';
+gtag('js',new Date());gtag('config','G-FLBF88V6HX',{src:s});
+document.addEventListener('click',function(e){
+ var a=e.target.closest&&e.target.closest('a[href*="naver.me"],a[href*="brandconnect"],a[href*="myrealt.rip"],a[href*="myrealtrip.com"]');
+ if(!a)return;
+ var card=a.closest('.card');var nm=card&&card.querySelector('.name')?card.querySelector('.name').innerText.slice(0,60):(a.closest('li')?a.closest('li').innerText.slice(0,60):a.href);
+ gtag('event','affiliate_click',{partner:/myrealt/.test(a.href)?'myrealtrip':'naver',src:s,product:nm,page:location.pathname,transport_type:'beacon'});
+});})();
+</script></body></html>
