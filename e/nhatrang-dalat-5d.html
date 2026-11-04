@@ -131,7 +131,7 @@ window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);
 (function(){var s=(new URLSearchParams(location.search)).get('s')||(new URLSearchParams(location.search)).get('from')||'direct';
 gtag('js',new Date());gtag('config','G-FLBF88V6HX',{src:s});
 document.addEventListener('click',function(e){
- var a=e.target.closest&&e.target.closest('a[href*="naver.me"],a[href*="brandconnect"],a[href*="myrealt.rip"],a[href*="myrealtrip.com"]');
+ var a=e.target.closest&&e.target.closest('a[href*="naver.me"],a[href*="/r/n/"],a[href*="brandconnect"],a[href*="myrealt.rip"],a[href*="myrealtrip.com"]');
  if(!a)return;
  var card=a.closest('.card');var nm=card&&card.querySelector('.name')?card.querySelector('.name').innerText.slice(0,60):(a.closest('li')?a.closest('li').innerText.slice(0,60):a.href);
  gtag('event','affiliate_click',{partner:/myrealt/.test(a.href)?'myrealtrip':'naver',src:s,product:nm,page:location.pathname,transport_type:'beacon'});

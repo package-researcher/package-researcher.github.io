@@ -104,7 +104,7 @@
     <p class="date">2026.08.23 공개</p>
     <div class="btns">
       <a class="b-n" href="https://blog.naver.com/robotnady10/224393177197"><svg viewBox="0 0 24 24" fill="#fff"><path d="M16.3 4v8.5L7.7 4H4v16h3.7v-8.5L16.3 20H20V4h-3.7z"/></svg>블로그에서 읽기</a>
-      <a class="b-b" href="https://naver.me/GbyCGvt3" rel="sponsored noopener">이 상품 예약 페이지 열기 <small>제휴</small></a>
+      <a class="b-b" href="/r/n/GbyCGvt3.html" rel="sponsored noopener">이 상품 예약 페이지 열기 <small>제휴</small></a>
     </div>
   </div>
   <script>
@@ -130,7 +130,7 @@ window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);
 (function(){var s=(new URLSearchParams(location.search)).get('s')||(new URLSearchParams(location.search)).get('from')||'direct';
 gtag('js',new Date());gtag('config','G-FLBF88V6HX',{src:s});
 document.addEventListener('click',function(e){
- var a=e.target.closest&&e.target.closest('a[href*="naver.me"],a[href*="brandconnect"],a[href*="myrealt.rip"],a[href*="myrealtrip.com"]');
+ var a=e.target.closest&&e.target.closest('a[href*="naver.me"],a[href*="/r/n/"],a[href*="brandconnect"],a[href*="myrealt.rip"],a[href*="myrealtrip.com"]');
  if(!a)return;
  var card=a.closest('.card');var nm=card&&card.querySelector('.name')?card.querySelector('.name').innerText.slice(0,60):(a.closest('li')?a.closest('li').innerText.slice(0,60):a.href);
  gtag('event','affiliate_click',{partner:/myrealt/.test(a.href)?'myrealtrip':'naver',src:s,product:nm,page:location.pathname,transport_type:'beacon'});
